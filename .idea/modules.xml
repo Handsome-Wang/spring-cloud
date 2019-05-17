@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/client/eureka-producer1-service.iml" filepath="$PROJECT_DIR$/client/eureka-producer1-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client1/eureka-producer2-service.iml" filepath="$PROJECT_DIR$/client1/eureka-producer2-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/eureka-server-service.iml" filepath="$PROJECT_DIR$/server/eureka-server-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign/feign-service.iml" filepath="$PROJECT_DIR$/feign/feign-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud.iml" filepath="$PROJECT_DIR$/spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/zuul-service.iml" filepath="$PROJECT_DIR$/zuul/zuul-service.iml" />
+    </modules>
+  </component>
+</project>
